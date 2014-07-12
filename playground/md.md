@@ -1,7 +1,6 @@
 ---
-layout: post
-title: Hello World
+layout: default
+title: Tom Preston-Werner
 ---
-
 ###First Markdown page
 > Have fun
